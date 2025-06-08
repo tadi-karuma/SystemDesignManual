@@ -147,6 +147,6 @@
 
 ご利用の際は、以下のリポジトリURLを出典として記載してください：
 
-* [https://github.com/tadi-karuma/HETAX](https://github.com/tadi-karuma/HETAX)
+* [https://github.com/tadi-karuma/SystemDesignManual](https://github.com/tadi-karuma/SystemDesignManual)
 
 ライセンス詳細は [LICENSE](./LICENSE) をご参照ください。
