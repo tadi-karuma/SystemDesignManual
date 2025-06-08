@@ -113,3 +113,12 @@
 制度設計は、もはや限られた専門家の専売特許ではありません。構想と論理とAIがあれば、市民であっても実現性の高い制度を設計できます。
 
 あなたの“問い”こそが、未来の制度を生み出します。
+
+---
+
+## 📜 ライセンス / License
+
+本マニュアルは [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ja) ライセンスのもとで公開されています。
+
+ご自由に改変・再利用いただけますが、著作者クレジット（Tadi Karuma）を記載してください。
+
