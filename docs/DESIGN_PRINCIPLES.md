@@ -45,7 +45,7 @@
 
 ## 5. 推奨補助文書
 
-- `README.md`：設計マニュアル本文
-- `ETHICS.md`：構想者の倫理的責任
+- [README.md](../README.md)：設計マニュアル本文
+- [ETHICS.md](./ETHICS.md)：構想者の倫理的責任
 - `template_*.md`：構想の具体記述補助テンプレート群
 
