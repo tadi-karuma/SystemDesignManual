@@ -13,7 +13,7 @@
 
 本マニュアルは、専門外の技術者・研究者・市民が、技術・制度・研究に関する構想を構造化・文書化し、AIの力を借りて社会に提案するまでの手順を体系的に示すものです。
 
-👉 補助資料（倫理・構想者の心得）: [ETHICS.md](./ETHICS.md)
+👉 補助資料（倫理・構想者の心得）: [ETHICS.md](docs/ETHICS.md)
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## 2. 構想とは何か：定義と構想者の立場
 
-👉 構造的思考の基本や設計誤作動の分類については、[DESIGN_PRINCIPLES.md](./DESIGN_PRINCIPLES.md) を参照してください。
+👉 構造的思考の基本や設計誤作動の分類については、[DESIGN_PRINCIPLES.md](docs/DESIGN_PRINCIPLES.md) を参照してください。
 
 構想は、社会的・技術的な問いを「構造化」して差し出す行為です。
 構想者は活動家・研究者・政策立案者と異なり、「設計と引き渡し」を担う中間者として振る舞います。
@@ -59,7 +59,7 @@
 
 ## 5. 逆算的構造化と設計思考
 
-🔎 設計における誤作動パターンと健全な構造設計の原則は [DESIGN_PRINCIPLES.md](./DESIGN_PRINCIPLES.md) を参照してください。
+🔎 設計における誤作動パターンと健全な構造設計の原則は [DESIGN_PRINCIPLES.md](docs/DESIGN_PRINCIPLES.md) を参照してください。
 
 
 ### ✅ ステップ
@@ -196,7 +196,7 @@
 
 ## 11. 構想者の倫理と自己制御
 
-💡 構想者の倫理的姿勢は [ETHICS.md](./ETHICS.md)、構造設計上の健全性判断は [DESIGN_PRINCIPLES.md](./DESIGN_PRINCIPLES.md) を参照してください。
+💡 構想者の倫理的姿勢は [ETHICS.md](docs/ETHICS.md)、構造設計上の健全性判断は [DESIGN_PRINCIPLES.md](docs/DESIGN_PRINCIPLES.md) を参照してください。
 
 
 ---
@@ -205,10 +205,10 @@
 
 テンプレートは `docs/templates` 以下に配置されています：
 
-- 技術構想用：template_technical.md
-- 政策構想用：template_policy.md
-- 研究構想用：template_research.md
-- 汎用構想用：template_generic.md
+- 技術構想用：[template_technical.md](docs/templates/template_technical.md)
+- 政策構想用：[template_policy.md](docs/templates/template_policy.md)
+- 研究構想用：[template_research.md](docs/templates/template_research.md)
+- 汎用構想用：[template_generic.md](docs/templates/template_generic.md)
 
 各テンプレートには構想記述欄、応答指針、読解フォーマット、再整理テンプレートが含まれています。
 
