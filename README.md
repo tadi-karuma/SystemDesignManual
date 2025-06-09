@@ -6,7 +6,7 @@
 
 本マニュアルは、専門外の技術者・研究者・市民が、技術・制度・研究に関する構想を構造化・文書化し、AIの力を借りて社会に提案するまでの手順を体系的に示すものです。
 
-👉 補助資料（倫理・構想者の心得）: `ETHICS.md`
+👉 補助資料（倫理・構想者の心得）: [ETHICS.md](./ETHICS.md)
 
 ---
 
@@ -186,3 +186,5 @@
 出典として以下のURLを記載してください：
 
 [https://github.com/tadi-karuma/SystemDesignManual](https://github.com/tadi-karuma/SystemDesignManual)
+
+ライセンス詳細は [LICENSE](./LICENSE) をご参照ください。
