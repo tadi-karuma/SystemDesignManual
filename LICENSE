@@ -1,42 +1,43 @@
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-This repository (SystemDesignManual) and all documents, templates, and related design materials contained herein  
-are licensed under the terms of the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+This work is licensed under the Creative Commons Attribution 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
 
 ---
 
-■ Summary of Permissions:
-
-You are free to:
-
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+This repository (including its structural templates, conceptual syntax, and staged description methods) is provided under the terms of CC BY 4.0.
+You may copy, redistribute, adapt, and build upon the content for any purpose, including commercial uses, provided that proper attribution is given.
 
 ---
 
-■ Conditions:
+Recommended attribution formats:
 
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- **Modification Notice (Recommended)** — When modifying or adapting the materials, clarify the difference from the original.
-- **AI Integration Clause** — When incorporating the structure, rules, or templates of this manual into AI-based outputs (e.g. ChatGPT), indicate the source.
+▼ Japanese (for public/official documents):
 
----
+  本構想は、制度構想の設計手法として SystemDesignManual（M.T, CC BY 4.0）に準拠し、
+  構想段階構成および履歴構造に基づいて設計されています。
 
-■ Suggested attribution format:
+  ※中略形式（簡略表記）：
+    - 「本構想は、SystemDesignManual（M.T）準拠により構成」
+    - 「↪︎構想構文：SystemDesignManual準拠（CC BY 4.0）」
 
-> This proposal is based on the open source project “SystemDesignManual”  
-> (https://github.com/tadi-karuma/SystemDesignManual).
+▼ English (for derived projects or international use):
 
----
+  Based on SystemDesignManual by M.T (https://github.com/tadi-karuma/SystemDesignManual),
+  licensed under CC BY 4.0.
 
-■ Disclaimer:
-
-This repository is provided for educational and structural reference purposes.  
-The author assumes no responsibility for consequences arising from its use, including any misinterpretation,  
-social impact, or unintended outcomes.
+  ※Short form (for headers, code comments, etc.):
+    - SystemDesignManual compliant (M.T, CC BY 4.0)
 
 ---
 
-■ Full license text (EN):
+Attribution to be credited as:
 
-https://creativecommons.org/licenses/by/4.0/legalcode
+  Author: M.T
+  Repository: https://github.com/tadi-karuma/SystemDesignManual
+  License: Creative Commons Attribution 4.0 International
+
+---
+
+Use of this structure in public institutions, municipalities, legislative frameworks, or academic policy designs is encouraged.
+This license ensures that derived works remain transparent, traceable, and structurally intelligible.
