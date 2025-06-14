@@ -33,7 +33,7 @@
 
 ## 2. 構想とは何か：定義と構想者の立場
 
-👉 構造的思考の基本や設計誤作動の分類については、[DESIGN_PRINCIPLES.md](docs/DESIGN_PRINCIPLES.md) を参照してください。
+👉 構造的思考の基本や設計誤作動の分類については、[DESIGN.md](docs/DESIGN.md) を参照してください。
 
 構想は、社会的・技術的な問いを「構造化」して差し出す行為です。
 構想者は活動家・研究者・政策立案者と異なり、「設計と引き渡し」を担う中間者として振る舞います。
@@ -71,7 +71,7 @@
 
 ## 5. 逆算的構造化と設計思考
 
-🔎 設計における誤作動パターンと健全な構造設計の原則は [DESIGN_PRINCIPLES.md](docs/DESIGN_PRINCIPLES.md) を参照してください。
+🔎 設計における誤作動パターンと健全な構造設計の原則は [DESIGN.md](docs/DESIGN.md) を参照してください。
 
 
 ### ✅ ステップ
@@ -208,7 +208,7 @@
 
 ## 11. 構想者の倫理と自己制御
 
-💡 構想者の倫理的姿勢は [ETHICS.md](docs/ETHICS.md)、構造設計上の健全性判断は [DESIGN_PRINCIPLES.md](docs/DESIGN_PRINCIPLES.md) を参照してください。
+💡 構想者の倫理的姿勢は [ETHICS.md](docs/ETHICS.md)、構造設計上の健全性判断は [DESIGN.md](docs/DESIGN.md) を参照してください。
 
 
 ---
