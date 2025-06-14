@@ -66,5 +66,5 @@
 
 ## 🗃 補助ファイル（例）
 
-- `examples/CommunityParks.md` に、実際の構文文書例（短縮版）を収録予定
+- [examples/CommunityParks.md](examples/CommunityParks.md) に、実際の構文文書例（短縮版）を収録
 
