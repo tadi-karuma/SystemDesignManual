@@ -253,14 +253,25 @@ A：実現可能性よりも「構造としての健全性」を検証・提示�
 
 ---
 
+---
+
 ## 📚 補助資料・関連文書へのリンク
 
-- 設計原則 → [docs/DESIGN.md](docs/DESIGN.md)
-- 構想倫理 → [docs/ETHICS.md](docs/ETHICS.md)
-- FAQ → [docs/FAQ.md](docs/FAQ.md)
+### 📘 設計思想と原則
+- 構想設計原則 → [docs/DESIGN.md](docs/DESIGN.md)
+- 構想者の倫理 → [docs/ETHICS.md](docs/ETHICS.md)
+
+### 💬 応答・反論への準備
+- FAQ（よくある質問） → [docs/FAQ.md](docs/FAQ.md)
 - 想定反論と応答 → [docs/CounterArguments.md](docs/CounterArguments.md)
+
+### 🛠 使用法と記述支援
 - 仮想構想フロー → [docs/EXAMPLE_FLOW.md](docs/EXAMPLE_FLOW.md)
 - 仮想構文例（CommunityParks） → [examples/CommunityParks.md](examples/CommunityParks.md)
+
+### 📂 テンプレートと構文記述
 - テンプレート群 → [templates/](templates/)
+
+### 📜 運用ルールとライセンス
 - 貢献ルール → [CONTRIBUTING.md](CONTRIBUTING.md)
 - ライセンス → [LICENSE](LICENSE)
