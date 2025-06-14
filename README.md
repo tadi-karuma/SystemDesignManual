@@ -33,7 +33,7 @@
 
 ## 2. 構想とは何か：定義と構想者の立場
 
-👉 構造的思考の基本や設計誤作動の分類については、[DESIGN.md](docs/DESIGN.md) を参照してください。
+👉 構造的思考の基本や設計誤作動の分類については、[DESIGN_PRINCIPLES.md](docs/DESIGN_PRINCIPLES.md) を参照してください。
 
 構想は、社会的・技術的な問いを「構造化」して差し出す行為です。
 構想者は活動家・研究者・政策立案者と異なり、「設計と引き渡し」を担う中間者として振る舞います。
@@ -71,7 +71,7 @@
 
 ## 5. 逆算的構造化と設計思考
 
-🔎 設計における誤作動パターンと健全な構造設計の原則は [DESIGN.md](docs/DESIGN.md) を参照してください。
+🔎 設計における誤作動パターンと健全な構造設計の原則は [DESIGN_PRINCIPLES.md](docs/DESIGN_PRINCIPLES.md) を参照してください。
 
 
 ### ✅ ステップ
@@ -208,7 +208,7 @@
 
 ## 11. 構想者の倫理と自己制御
 
-💡 構想者の倫理的姿勢は [ETHICS.md](docs/ETHICS.md)、構造設計上の健全性判断は [DESIGN.md](docs/DESIGN.md) を参照してください。
+💡 構想者の倫理的姿勢は [ETHICS.md](docs/ETHICS.md)、構造設計上の健全性判断は [DESIGN_PRINCIPLES.md](docs/DESIGN_PRINCIPLES.md) を参照してください。
 
 
 ---
@@ -249,3 +249,18 @@ A：実現可能性よりも「構造としての健全性」を検証・提示�
 - ただし、AI出力や自動応答支援に本マニュアル構成を組み込む場合は、その旨を明記してください。
 
 詳しい条件については、[LICENSE](./LICENSE) ファイルを参照してください。
+
+
+---
+
+## 📚 補助資料・関連文書へのリンク
+
+- 設計原則 → [docs/DESIGN.md](docs/DESIGN.md)
+- 構想倫理 → [docs/ETHICS.md](docs/ETHICS.md)
+- FAQ → [docs/FAQ.md](docs/FAQ.md)
+- 想定反論と応答 → [docs/CounterArguments.md](docs/CounterArguments.md)
+- 仮想構想フロー → [docs/EXAMPLE_FLOW.md](docs/EXAMPLE_FLOW.md)
+- 仮想構文例（CommunityParks） → [examples/CommunityParks.md](examples/CommunityParks.md)
+- テンプレート群 → [templates/](templates/)
+- 貢献ルール → [CONTRIBUTING.md](CONTRIBUTING.md)
+- ライセンス → [LICENSE](LICENSE)
