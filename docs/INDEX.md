@@ -26,7 +26,7 @@
 - [`docs/templates/template_research.md`](templates/template_research.md)：研究構想・助成申請用テンプレート
 
 ### 4. 構想事例（Examples）
-- [`examples/`](../examples/)：実際にテンプレートで記述された構想事例集
+- [`examples/list.md`](../examples/list.md)：実際にテンプレートで記述された構想事例集
 
 ### 5. 運営・貢献情報
 - [`CONTRIBUTING.md`](../CONTRIBUTING.md)：このリポジトリへの貢献・改善方法の案内
