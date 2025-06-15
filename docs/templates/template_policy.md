@@ -50,9 +50,3 @@
 ---
 
 制度構想は「責任ある想像力」の文書化であり、仮説と制度設計を接続するフレームとしてこのテンプレートをご活用ください。
-
-
-このテンプレートは [`template_generic.md`](template_generic.md) を土台に、政策構想に特化した項目が追加されています。
-
-次に参照すべきファイル： [`template_technical.md`](template_technical.md)（技術構想向け）
-
