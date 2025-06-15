@@ -1,37 +1,30 @@
-# 構想設計マニュアル：文書一覧（INDEX）
+# 構想設計マニュアル：文書一覧（INDEX.md）
 
-このリポジトリには、構想設計を構文化するためのガイドライン・構文テンプレート・補助資料が含まれています。  
-以下はその一覧と簡易な説明です。
+本マニュアルは、構想設計に必要なガイドライン・構文テンプレート・実例を含んだ複数の文書から構成されています。
+以下に、分類ごとのファイル一覧とその役割を記載します。
 
----
+## 設計・原則ドキュメント
 
-## 🧭 設計ガイド・原則系
+- [docs/DESIGN.md](DESIGN.md)：構想設計の基本原則と分解方針
+- [docs/ETHICS.md](ETHICS.md)：構想実施時の倫理的留意点
+- [docs/FAQ.md](FAQ.md)：よくある質問と対応方針
+- [docs/CounterArguments.md](CounterArguments.md)：想定される反論と構造的応答
 
-- [DESIGN.md](DESIGN.md): 構想設計の基本原則・分解方針
-- [ETHICS.md](ETHICS.md): 構想者の倫理と構文責任の設計
-- [FAQ.md](FAQ.md): よくある質問とその応答
-- [CounterArguments.md](CounterArguments.md): 想定反論と構文的回答
+## 実践ガイド・例示
 
----
+- [docs/EXAMPLE_FLOW.md](EXAMPLE_FLOW.md)：構想テンプレートを使った作成フローの実例
+- [examples/CommunityParks.md](../examples/CommunityParks.md)：構想テンプレート適用例（地域公園）
 
-## 🧰 補助資料・使用例
+## テンプレート
 
-- [EXAMPLE_FLOW.md](EXAMPLE_FLOW.md): 仮想構想によるテンプレート使用フロー
-- [examples/CommunityParks.md](../examples/CommunityParks.md): 仮想構想「CommunityParks」全文例
+- [docs/templates/template_generic.md](templates/template_generic.md)：一般構想用テンプレート
+- [docs/templates/template_policy.md](templates/template_policy.md)：政策構想向けテンプレート
+- [docs/templates/template_technical.md](templates/template_technical.md)：技術開発向けテンプレート
+- [docs/templates/template_research.md](templates/template_research.md)：研究構想向けテンプレート
 
----
+## ガイドライン・貢献
 
-## 🧩 テンプレート群（構文記述用）
-
-- [templates/template_generic.md](../templates/template_generic.md)
-- [templates/template_policy.md](../templates/template_policy.md)
-- [templates/template_research.md](../templates/template_research.md)
-- [templates/template_technical.md](../templates/template_technical.md)
+- [CONTRIBUTING.md](../CONTRIBUTING.md)：構想投稿・貢献のための手引き
 
 ---
-
-## 🤝 貢献・責任構造
-
-- [CONTRIBUTING.md](../CONTRIBUTING.md): 構文責任を含む貢献ガイドライン
-- [LICENSE](../LICENSE): CC BY 4.0 ライセンス（再利用・改変可能性と責任表示）
 
