@@ -1,32 +1,35 @@
-# 構想設計マニュアル：AI活用による構想実現の手引き（README.md）
+# 📘 README：SystemDesignManual
 
-## 概要
-本マニュアルは、専門外の技術者・研究者・市民が、技術・制度・研究に関する構想を構造化・文書化し、AIの力を借りて社会に提案するまでの手順を体系的に示します。
+このリポジトリは、非専門家・技術者・研究者・市民が構想（制度・技術・政策・研究）を自律的に設計・文書化・社会提案するための構造的な手引書（SystemDesignManual）です。
 
-このドキュメントはその全体像と導入部として、構想設計における背景、目的、想定読者、そして文書群全体の構成を説明するものです。
+---
 
-## 想定読者
-- 制度・技術の構想を社会に発信したい市民や非専門家
-- 政策・研究・技術設計に関わる初学者
-- AIを活用して構想作成を支援したい中級者以上の開発者
+## 📂 マニュアル全体の構成
 
-## マニュアル全体の構成
-本マニュアルは以下の文書から構成されます。
+1. `docs/INDEX.md` … 各文書の構成と関係性（目次）  
+2. `docs/DESIGN.md` … 構想設計の原則と設計指針  
+3. `docs/ETHICS.md` … 構想における倫理的観点と注意点  
+4. `docs/EVALUATION.md` … 構想の評価・検証に関する方法論  
+5. `docs/AI_USAGE.md` … AIを活用した構想支援のガイドライン  
+6. `docs/AI_INPUT_TEMPLATE.md` … AI入力用構想テンプレート（構想説明用）  
+7. `docs/templates/` … 各分野の構想テンプレート（generic/policy/technical/research）  
+8. `docs/ai_prompts/` … AIへの命令・整合性チェック・要約・完成度レビュー用テンプレート群  
+9. `CONTRIBUTING.md` … 提案・改善方法、貢献フローの説明
 
-1. [docs/INDEX.md](docs/INDEX.md) … 各文書の構成と関係性（目次）  
-2. [docs/DESIGN.md](docs/DESIGN.md) … 構想設計の原則と設計指針  
-3. [docs/ETHICS.md](docs/ETHICS.md) … 倫理的留意点  
-4. [docs/FAQ.md](docs/FAQ.md) … よくある質問と回答  
-5. [docs/CounterArguments.md](docs/CounterArguments.md) … 想定される反論と応答例  
-6. [docs/EXAMPLE_FLOW.md](docs/EXAMPLE_FLOW.md) … 具体的な構想作成の流れ  
-7. [docs/AI_USAGE.md](docs/AI_USAGE.md) … AI活用にあたっての注意点と支援方法  
-8. [docs/RESPONSE_RULES.md](docs/RESPONSE_RULES.md) … 応答原則テンプレート
-9. [docs/templates/](docs/templates/) … 各分野の構想テンプレート（generic/policy/technical/research）  
-10. [examples/CommunityParks.md](examples/CommunityParks.md) … 実例（公園構想）  
-11. [CONTRIBUTING.md](CONTRIBUTING.md) … 改善提案・構想投稿のための貢献ガイド  
-12. [LICENSE](LICENSE)… ライセンス　（CC BY 4.0）
+---
 
-## 本資料の目的
-- 市民が制度・技術・研究の構想を構造的に文書化できるようにすること  
-- AIによる支援を受けながら、誰でも構想作成に着手できる環境を整えること  
-- 専門家以外にも届く提案文書の標準構文を提示すること  
+## 📎 推奨フロー（概要）
+
+構想の立案 → テンプレート記述 → AIによる補完・検証 → 完成度評価 → 提出・社会提案
+
+---
+
+詳細な各ファイルの内容は `docs/INDEX.md` を参照してください。
+
+---
+
+## 🛡️ ライセンス
+
+このリポジトリは **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)** のもとで公開されています。
+
+詳細および再利用時の表記例については [`LICENSE`](./LICENSE) を参照してください。
