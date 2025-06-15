@@ -19,9 +19,11 @@
 4. `docs/FAQ.md` … よくある質問と回答
 5. `docs/CounterArguments.md` … 想定される反論と応答例
 6. `docs/EXAMPLE_FLOW.md` … 具体的な構想作成の流れ
-7. `docs/templates/` … 各分野の構想テンプレート（generic/policy/technical/research）
-8. `examples/CommunityParks.md` … 実例（公園構想）
-9. `CONTRIBUTING.md` … 改善提案・構想投稿のための貢献ガイド
+7. `docs/AI_USAGE.md` … AI活用にあたっての注意点と支援方法
+8. `docs/RESPONSE_RULES.md` … 応答原則テンプレート
+9. `docs/templates/` … 各分野の構想テンプレート（generic/policy/technical/research）
+10. `examples/CommunityParks.md` … 実例（公園構想）
+11. `CONTRIBUTING.md` … 改善提案・構想投稿のための貢献ガイド
 
 ## 本資料の目的
 - 市民が制度・技術・研究の構想を構造的に文書化できるようにすること
@@ -29,8 +31,9 @@
 - 専門家以外にも届く提案文書の標準構文を提示すること
 
 ## 次に読むべき資料
-構想を実際に始めたい方は、まず [INDEX.md](docs/INDEX.md) を参照してください。
-全体の設計指針を把握したい方は [DESIGN.md](docs/DESIGN.md) に進んでください。
+構想を実際に始めたい方は、まず `docs/INDEX.md` を参照してください。
+全体の設計指針を把握したい方は `docs/DESIGN.md` に進んでください。
 
 ---
 
+© 2025 構想設計マニュアル運営チーム
