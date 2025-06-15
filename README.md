@@ -14,7 +14,8 @@
 6. `docs/AI_INPUT_TEMPLATE.md` … AI入力用構想テンプレート（構想説明用）  
 7. `docs/templates/` … 各分野の構想テンプレート（generic/policy/technical/research）  
 8. `docs/ai_prompts/` … AIへの命令・整合性チェック・要約・完成度レビュー用テンプレート群  
-9. `CONTRIBUTING.md` … 提案・改善方法、貢献フローの説明
+9. `CONTRIBUTING.md` … 提案・改善方法、貢献フローの説明  
+10. `examples/list.md` … 本構想マニュアルを活用した公開構想事例のリンク集
 
 ---
 
@@ -24,7 +25,7 @@
 
 ---
 
-詳細な各ファイルの内容は [docs/INDEX.md](docs/INDEX.md) を参照してください。
+詳細な各ファイルの内容は [`docs/INDEX.md`](docs/INDEX.md) を参照してください。
 
 ---
 
