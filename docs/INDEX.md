@@ -1,41 +1,37 @@
-# 📘 INDEX.md：構想設計マニュアルの全体構成
+# 🧭 INDEX.md：SystemDesignManual 構成目次
 
-このドキュメントは、SystemDesignManual に含まれる構想支援文書群の全体像と関係性を一覧化したものです。
+本ドキュメントは、SystemDesignManual リポジトリ内の各ファイルが果たす役割と、それらの関係性を明示するための目次です。構想設計を構造的に進めるために、どの文書をどう参照すべきかを把握する助けとなります。
 
 ---
 
-## 🗂 文書一覧と導線
+## 📁 構成カテゴリ一覧
 
-### 1. 構想設計の総論・支援
-- [`README.md`](../README.md)：本構想マニュアルの概要と案内
-- [`docs/DESIGN.md`](DESIGN.md)：構想設計の原則と設計指針
-- [`docs/ETHICS.md`](ETHICS.md)：構想設計における倫理的観点
+### 1. 設計・評価指針
+- [`docs/DESIGN.md`](DESIGN.md)：構想設計における原則と構成要素の説明
+- [`docs/ETHICS.md`](ETHICS.md)：構想に必要な倫理観・責任設計・想定被影響者の把握
+- [`docs/EVALUATION.md`](EVALUATION.md)：構想をどう評価し検証するかの視点
 
 ### 2. 構想実施に向けた支援
-- [`docs/EXAMPLE_FLOW.md`](EXAMPLE_FLOW.md)：構想作成の例と手順
-- [`docs/AI_USAGE.md`](AI_USAGE.md)：AI活用上の注意点と対話指針
-- [`docs/RESPONSE_RULES.md`](RESPONSE_RULES.md)：ChatGPT応答原則テンプレート
+- [`docs/AI_USAGE.md`](AI_USAGE.md)：AIを活用した構想支援の使い方と留意点
+- [`docs/AI_INPUT_TEMPLATE.md`](AI_INPUT_TEMPLATE.md)：AIに構想を渡すときの入力テンプレート
+- [`docs/ai_prompts/AI_COMMAND_TEMPLATE.md`](ai_prompts/AI_COMMAND_TEMPLATE.md)：AIへの命令文テンプレート
+- [`docs/ai_prompts/AI_STRUCTURAL_CHECKLIST.md`](ai_prompts/AI_STRUCTURAL_CHECKLIST.md)：構造整合性・重複検出テンプレート
+- [`docs/ai_prompts/AI_SUMMARY_TEMPLATE.md`](ai_prompts/AI_SUMMARY_TEMPLATE.md)：応答が長くなったときの要点整理テンプレート
+- [`docs/ai_prompts/AI_COMPLETION_REVIEW.md`](ai_prompts/AI_COMPLETION_REVIEW.md)：構想全体の完成度評価テンプレート
 
-### 3. 批判的検討と想定問答
-- [`docs/FAQ.md`](FAQ.md)：よくある質問と回答
-- [`docs/CounterArguments.md`](CounterArguments.md)：反論例と応答構造の確認
+### 3. テンプレート（構想記述用）
+- [`docs/templates/template_generic.md`](templates/template_generic.md)：汎用構想テンプレート
+- [`docs/templates/template_policy.md`](templates/template_policy.md)：制度・政策構想用テンプレート
+- [`docs/templates/template_technical.md`](templates/template_technical.md)：技術・仕様提案用テンプレート
+- [`docs/templates/template_research.md`](templates/template_research.md)：研究構想・助成申請用テンプレート
 
-### 4. 分野別テンプレート群
-- [`docs/templates/template_generic.md`](templates/template_generic.md)：汎用テンプレート
-- [`docs/templates/template_policy.md`](templates/template_policy.md)：制度設計テンプレート
-- [`docs/templates/template_technical.md`](templates/template_technical.md)：技術構想テンプレート
-- [`docs/templates/template_research.md`](templates/template_research.md)：研究構想テンプレート
+### 4. 構想事例（Examples）
+- [`examples/`](../examples/)：実際にテンプレートで記述された構想事例集
 
-### 5. 事例と貢献
-- [`examples/CommunityParks.md`](../examples/CommunityParks.md)：具体的構想事例（公園）
-- [`CONTRIBUTING.md`](../CONTRIBUTING.md)：構想投稿・改善提案のための貢献方法
+### 5. 運営・貢献情報
+- [`CONTRIBUTING.md`](../CONTRIBUTING.md)：このリポジトリへの貢献・改善方法の案内
 
 ---
 
-## 🔁 推奨読解順序
-1. `README.md`  
-2. `INDEX.md`  
-3. `DESIGN.md` / `ETHICS.md`  
-その後、自身の関心分野に応じてテンプレートや事例へ進む構成が推奨されます。
-
+各ファイルは独立して読める構造になっていますが、`DESIGN.md` → テンプレート → `AI_INPUT_TEMPLATE.md` → `AI_USAGE.md` → `EVALUATION.md` の順に進めると効果的です。
 
