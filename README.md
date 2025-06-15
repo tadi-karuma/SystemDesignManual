@@ -270,7 +270,7 @@ A：実現可能性よりも「構造としての健全性」を検証・提示�
 - 仮想構文例（CommunityParks） → [examples/CommunityParks.md](examples/CommunityParks.md)
 
 ### 📂 テンプレートと構文記述
-- テンプレート群 → [templates/](templates/)
+- テンプレート群 → [templates/](docs/templates/)
 
 ### 📜 運用ルールとライセンス
 - 貢献ルール → [CONTRIBUTING.md](CONTRIBUTING.md)
