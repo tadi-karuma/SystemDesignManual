@@ -24,6 +24,7 @@
 9. [docs/templates/](docs/templates/) … 各分野の構想テンプレート（generic/policy/technical/research）  
 10. [examples/CommunityParks.md](examples/CommunityParks.md) … 実例（公園構想）  
 11. [CONTRIBUTING.md](CONTRIBUTING.md) … 改善提案・構想投稿のための貢献ガイド  
+12. [LICENSE](LICENSE)… ライセンス　CC BY 4
 
 ## 本資料の目的
 - 市民が制度・技術・研究の構想を構造的に文書化できるようにすること  
